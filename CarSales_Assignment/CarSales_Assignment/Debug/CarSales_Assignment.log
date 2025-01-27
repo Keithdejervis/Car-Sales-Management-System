@@ -1,0 +1,3 @@
+﻿  main.c
+D:\CS Year 1\ITP\Projects_C\CarSales_Assignment\CarSales_Assignment\main.c(52,9): warning C4013: 'system' undefined; assuming extern returning int
+  CarSales_Assignment.vcxproj -> D:\CS Year 1\ITP\Projects_C\CarSales_Assignment\Debug\CarSales_Assignment.exe
